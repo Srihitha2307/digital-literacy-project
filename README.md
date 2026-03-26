@@ -13,24 +13,24 @@ This repository is a comprehensive collection of resources and tasks completed f
 
 ##  Module Summaries
 
-###  Module 1: Visual Communication
+###  [Module 1: Visual Communication](./task-1-presentation/)
 * **Task:** Digital Literacy Awareness Infographic.
 * **Summary:** Created an intuitive infographic using **Canva** that defines digital literacy and visualizes a "toolbox" of professional platforms. It includes a circular flow of **Safe Internet Practices** such as MFA and encrypted connections.
 
-###  Module 2: Professional Presence
+###  [Module 2: Professional Presence](./task-2-portfolio/)
 * **Task:** Student Digital Portfolio.
 * **Summary:** Established a professional foundation on **LinkedIn**, **GitHub**, and **Kaggle**. These profiles are tailored to track my academic and professional growth within the Aerospace industry over the next four years.
 
-###  Module 3: Technical Skills
+###  [Module 3: Technical Skills](./task-3-platforms/)
 * **Task:** Practice & Cloud Platforms.
 * **Summary:** Demonstrated technical proficiency by solving Python challenges on **HackerRank** and creating a data-driven **Digital Literacy Quiz** via Google Forms to analyze student habits.
 * **Google Form link:** https://docs.google.com/forms/d/e/1FAIpQLSfxrE4d2gyB2ADVpH6Flp8BcT3AKtSx6SldDWIT20-hUnMMbA/viewform?usp=publish-editor
 
-###  Module 4: Digital Etiquette
+###  [Module 4: Digital Etiquette](./task-4-email-etiquette/)
 * **Task:** Professional Communication Guide.
 * **Summary:** Developed a guide for responsible digital citizenship, including professional email templates (e.g., internship requests) and a "Do’s and Don’ts" checklist for maintaining a positive social media footprint.
 
-###  Module 5: Cybersecurity
+###  [Module 5: Cybersecurity](./task-5-cybercrime/)
 * **Task:** Cybercrime Case Study & Prevention.
 * **Summary:** Conducted an in-depth analysis of the **Change Healthcare Ransomware** attack. This module features a step-by-step breakdown of the breach and a specialized safety checklist for Indian college students regarding UPI and financial security.
 
