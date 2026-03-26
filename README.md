@@ -37,7 +37,7 @@ This repository is a comprehensive collection of resources and tasks completed f
 ---
 
 ##  Quick Links
-* **Full Project Report:** [View Report]( report/Project Report.docx )
+* **Full Project Report:** [View Report](https://github.com/Srihitha2307/digital-literacy-project/blob/main/report/Project%20Report.docx)
 * **Cybercrime Reporting:** [National Cyber Crime Portal](https://www.cybercrime.gov.in)
 * **Professional Profile:** [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
 
